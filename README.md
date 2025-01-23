@@ -28,3 +28,7 @@ Script to remove MySQL from Ubuntu.
 
 - Ensure you have backed up any important data before running the script, as it will permanently delete MySQL and its related files.
 - The script is intended for use on Ubuntu systems.
+
+## Disclaimer
+
+This script is provided as-is without any warranty. Use it at your own risk. The authors are not responsible for any damage or data loss that may occur. Proceed with caution.
